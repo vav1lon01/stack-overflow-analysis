@@ -1,1 +1,1 @@
-# stack-overflow-analysis
+# Комплексне дослідження екосистеми розробників (Stack Overflow)
